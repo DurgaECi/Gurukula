@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20198" started-at="2018-06-30T15:21:00Z" finished-at="2018-06-30T15:21:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20198" started-at="2018-06-30T15:21:00Z" finished-at="2018-06-30T15:21:20Z">
+      <class name="DriverPack.TestDriver">
+        <test-method status="PASS" signature="Data()[pri:0, instance:DriverPack.TestDriver@6a41eaa2]" name="Data" is-config="true" duration-ms="463" started-at="2018-06-30T15:21:00Z" finished-at="2018-06-30T15:21:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Data -->
+        <test-method status="PASS" signature="setReport()[pri:0, instance:DriverPack.TestDriver@6a41eaa2]" name="setReport" is-config="true" duration-ms="127" started-at="2018-06-30T15:21:00Z" finished-at="2018-06-30T15:21:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setReport -->
+        <test-method status="PASS" signature="executeAllTestCases()[pri:0, instance:DriverPack.TestDriver@6a41eaa2]" name="executeAllTestCases" duration-ms="19343" started-at="2018-06-30T15:21:01Z" finished-at="2018-06-30T15:21:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeAllTestCases -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:DriverPack.TestDriver@6a41eaa2]" name="tearDown" is-config="true" duration-ms="244" started-at="2018-06-30T15:21:20Z" finished-at="2018-06-30T15:21:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- DriverPack.TestDriver -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
